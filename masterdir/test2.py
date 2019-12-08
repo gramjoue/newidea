@@ -13,5 +13,4 @@ def py_check():
 
 py_check()
 
-'''k gkfgkdsg
-'''
+# 8.12.19
